@@ -16,3 +16,4 @@ Many words share the same roots, such as word and Wort, or house and Haus.
 Many words are spelled almost the same way in English and German; for example, Text, Zoo, Handball, Motor,
 Bus, Park, Position, or Garage.
 As you can see, German is quite similar to English. There are, however, differences:
+ffdsd
