@@ -1,12 +1,12 @@
-bright learn coffee sales
-Einführung in die  Deutsche Sprache.
+- bright learn coffee sales
+- Einführung in die  Deutsche Sprache.
 
-Welcome to Level I German!
-The goal of Level I German is to introduce the basics of the German language without overwhelming students.
-Therefore, the vocabulary is formatted for translating from English (which the students know) into German.
+- Welcome to Level I German!
+- The goal of Level I German is to introduce the basics of the German language without overwhelming students.
+- Therefore, the vocabulary is formatted for translating from English (which the students know) into German.
 
-German and English
-German and English are quite close to each other. Here are some major similarities:
+- German and English
+- German and English are quite close to each other. Here are some major similarities:
 
 Both languages use the Latin alphabet.
 Normally, sentences follow Subject-Verb-Object order.
