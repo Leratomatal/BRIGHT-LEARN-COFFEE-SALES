@@ -1,12 +1,10 @@
 # Bright Coffee Shop Sales Analysis 2026
 
----
 
 ## Introduction
 
 Bright Coffee Shop has appointed a new CEO whose mission is to grow revenue and improve product performance. As a Junior Data Analyst, I was tasked with analyzing historical transactional sales data and delivering actionable insights to support the CEO's decision-making.
 
----
 
 ## Objectives
 
@@ -15,14 +13,13 @@ Bright Coffee Shop has appointed a new CEO whose mission is to grow revenue and 
 3. Analyze sales trends across products and time intervals
 4. **Deliver recommendations for improving sales performance** *(primary objective — objectives 1–3 provide the evidence base for this)*
 
----
 
 ## Approach & Pipeline
 
 This project follows an **ELT (Extract → Load → Transform)** pattern:
 
 | Stage | What happened |
-|---|---|
+
 | **Extract** | Source dataset received in Excel format, converted to CSV |
 | **Load** | Raw CSV uploaded into Databricks as-is — no pre-processing applied |
 | **Transform** | Data cleaned and reshaped using SQL queries inside Databricks |
@@ -30,7 +27,7 @@ This project follows an **ELT (Extract → Load → Transform)** pattern:
 | **Present** | Key insights and recommendations delivered via PowerPoint to the CEO |
 
 
----
+
 
 ## SQL Transformations (Databricks)
 
@@ -42,7 +39,7 @@ Key transformations:
 - Create `transaction_time_bucket` to group transactions into 30-minute intervals
 - Group and aggregate by `product_type`, `product_category`, and `time_bucket`
 
----
+
 
 ## Key Insights Delivered
 
@@ -86,7 +83,7 @@ Key transformations:
 
 ## Submission Checklist
 
-- [x] XMind plan / architecture diagram
-- [x] Processed dataset with pivot tables & charts (Google Sheets / Excel)
-- [x] PowerPoint presentation
-- [x] SQL file with all queries
+-  XMind plan / architecture diagram
+-  Processed dataset with pivot tables & charts (Google Sheets / Excel)
+-  PowerPoint presentation
+-  SQL file with all queries
