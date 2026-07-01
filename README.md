@@ -25,7 +25,6 @@ Transformed results exported to Google Sheets for pivot tables and charts
 Present
 Key insights and recommendations delivered via PowerPoint to the CEO
 
-Note on ELT vs ETL: The brief references an ETL pipeline. In practice, this project used an ELT approach — the raw data was loaded into Databricks first, and all transformations (casting unit_price, computing total_amount, grouping into time buckets) were performed downstream using SQL. This is the standard pattern for modern cloud data platforms like Databricks.
 
 SQL Transformations (Databricks)
 All transformations were performed using SQL inside the Databricks SQL Editor against the raw loaded table.
